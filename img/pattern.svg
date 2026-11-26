@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280" fill="none" stroke="#FBF5E9" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" opacity="0.07">
+  <!-- kawałek pizzy -->
+  <g transform="translate(22 20)">
+    <path d="M6 8 Q38 -4 70 8 L38 78 Z"/>
+    <path d="M10 16 Q38 6 66 16"/>
+    <circle cx="30" cy="26" r="5"/><circle cx="46" cy="30" r="4"/><circle cx="38" cy="46" r="4.5"/>
+  </g>
+  <!-- liść bazylii -->
+  <g transform="translate(170 24) rotate(18)">
+    <path d="M0 30 C10 4 44 0 56 6 C50 26 26 44 0 30 Z"/>
+    <path d="M0 30 C18 22 34 14 56 6"/>
+    <path d="M18 22 l-2 -10 M30 17 l0 -10 M40 12 l4 -7"/>
+  </g>
+  <!-- pomidor -->
+  <g transform="translate(196 132)">
+    <circle cx="26" cy="30" r="24"/>
+    <path d="M26 8 l-8 -6 M26 8 l8 -6 M26 8 l0 -8 M26 8 l-12 2 M26 8 l12 2"/>
+  </g>
+  <!-- oliwki -->
+  <g transform="translate(110 118)">
+    <ellipse cx="10" cy="10" rx="9" ry="7"/><ellipse cx="10" cy="10" rx="3" ry="2"/>
+    <ellipse cx="32" cy="20" rx="9" ry="7"/><ellipse cx="32" cy="20" rx="3" ry="2"/>
+  </g>
+  <!-- papryczka jalapeño -->
+  <g transform="translate(26 150) rotate(-24)">
+    <path d="M8 10 C30 4 62 10 74 34 C56 26 30 26 8 22 C2 20 2 12 8 10 Z"/>
+    <path d="M8 14 C4 8 0 6 -4 2"/>
+  </g>
+  <!-- wałek / łopata -->
+  <g transform="translate(118 206) rotate(-30)">
+    <rect x="0" y="0" width="46" height="34" rx="6"/>
+    <path d="M46 17 h40"/><circle cx="90" cy="17" r="4"/>
+  </g>
+  <!-- grzyb -->
+  <g transform="translate(218 220)">
+    <path d="M0 18 C0 4 40 4 40 18 Z"/><path d="M14 18 v16 h12 v-16"/>
+  </g>
+  <!-- kropki -->
+  <g fill="#FBF5E9" stroke="none">
+    <circle cx="140" cy="40" r="2"/><circle cx="100" cy="90" r="1.6"/><circle cx="250" cy="100" r="1.8"/>
+    <circle cx="60" cy="250" r="2"/><circle cx="170" cy="180" r="1.6"/>
+  </g>
+</svg>

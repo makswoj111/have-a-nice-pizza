@@ -1,0 +1,19 @@
+# Poprzednia wersja strony (zostaje tylko lokalnie)
+_poprzednia-wersja/
+
+# Zależności i pliki narzędzi
+node_modules/
+npm-debug.log*
+*.log
+
+# Pliki systemowe i edytorów
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Archiwa i dane prywatne
+*.zip
+.env
+.env.*
